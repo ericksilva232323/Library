@@ -28,7 +28,7 @@ Primeiramente vamos configurar dentro do Firebase Pets a parte de Storage
 
 Clique em Storage
 
-![alt text](image.png)
+![PNG](/assets/image.png)
 
 Logo após crie um banco no modo Produção
 
