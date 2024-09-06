@@ -60,3 +60,11 @@ E tamebem ao final do arquivo adicione a seguinte configuração
 export const storage = getStorage();
 ```
 Va em seu arquivo App.js e vamos adicionar as alterações de storage e o CRUD juntos
+
+```js
+
+npx create-expo-app@latest
+npx expo start
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+
+```
